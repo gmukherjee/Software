@@ -25,9 +25,10 @@ use-site-title: true
 
 # List of links in the navigation bar
 navbar-links:
-  Bio: "https://gmukherjee.github.io/Bio/"
-  Research: "https://gmukherjee.github.io/Research"
-  Teaching: "https://gmukherjee.github.io/Teaching"
+  Home: "https://gmukherjee.github.io/index.html"
+  Bio: "https://gmukherjee.github.io/bio.html"
+  Research: "https://gmukherjee.github.io/research.html"
+  Teaching: "https://gmukherjee.github.io/teaching.html"
   Software: "https://gmukherjee.github.io/Software/"
   # Personal: "https://gmukherjee.github.io/Personal/"
  
